@@ -4,6 +4,8 @@
 This is a simple implementation of logistic regression from the scratch.
 In Logistic Regression, we don’t directly fit a straight line to our data like in linear regression. Instead, we fit a S shaped curve, called Sigmoid, to our observations.
 
+Steps on how to implement logistic regression from scratch
+
 Define a sigmoid function. Which returns the probability of an event, which is always between 0 and 1.
 
 Define an error function. Which returns how far the prediction is from the actual value
